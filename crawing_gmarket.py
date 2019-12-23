@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 import re
 
-f = open('data/191216_gmarket.csv', 'w', encoding='cp949')
+f = open('data/191223_gmarket.csv', 'w', encoding='cp949')
 f.write('상품명, 가격, 판매처, 링크\n')
 f.write('종합' + '\n')  
 
